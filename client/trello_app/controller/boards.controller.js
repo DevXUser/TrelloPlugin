@@ -4,10 +4,10 @@ sap.ui.define([
 ], function(Controller) {
 	"use strict";
 	
-	var key = "9274332328c83c8ed05a4759875b1c49";
-	var token = "5bb9afefd648f0e9e752d9da48ff49625934fc859ee0279f897cf64261c5550e";
-	var todoList = "55c8e0033b153498bb53172c";
-	var doingList = "55c8e03b5afd4959bf3831c4";
+	var key = "0f1c18addffa872973c33c9fcf9d1fbb";
+	var token = "78332039be390a0f751d89f127cadcaa1b6b0c9101c413f3062ed917e8843d8b";
+	var todoList = "5a5dadf570fa34a87ebd4f89";
+	var doingList = "5a5dadfe51bfde0858f11e8b";
 
 	return Controller.extend("trello_app.controller.boards", {
 
